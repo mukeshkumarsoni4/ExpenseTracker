@@ -11,8 +11,6 @@ The **Expense Tracker** is a simple web application designed to help users manag
 
 The app uses **local storage** to persist data across page reloads, ensuring that expenses are not lost even if the page is refreshed.
 
-[Expense Tracker Live Demo](https://udit-kasana.github.io/Expense-Tracker/)
-
 ---
 
 ## Features
